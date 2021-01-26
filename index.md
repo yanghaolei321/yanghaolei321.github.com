@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### 个人信息
 
-You can use the [editor on GitHub](https://github.com/yanghaolei321/yanghaolei321.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>yanghaolei</h1>
+      <p><b>硕士研究生:Newcastle University 2016-2017</b></p>
+      <p><b>本科:北京邮电大学 2012-2016</b></p>
+      <p><b>技术博客:https://juejin.cn/user/3104676568901246 </b></p>
+      <p><b>wx:HaoleiyangG5992</b></p>
+    </td>
+    <td width="25%">
+      <img src="/headimg.jpeg" width="100%">      
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 暂时不看工作机会
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技术栈和方向 
+- 2年springcloud alibaba体系开发经验 [服务注册发现:nacos 网关:spring cloud gateway/sentinal 消息:rocketmq/ribbon+feign+hystrix 安全:Oauth+security]
+- 目前独自hold一个项目 从0到1 DAU5W [jvm//服务器//nginx//apm]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanghaolei321/yanghaolei321.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
